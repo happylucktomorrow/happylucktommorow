@@ -167,6 +167,3 @@
 </picture>
 
 <img src="https://github.com/happylucktomorrow/happylucktomorrow/blob/main/colorful_line.gif">
-
-
-https://drive.google.com/file/d/1MDq8erk1suwkkFFWxhr-ptIqGGUcLGw1/view?usp=sharing
